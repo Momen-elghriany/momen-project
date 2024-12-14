@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#home{
+    background-image: url(./ocean-1867285_1280.jpg);
+    background-position: center center;
+    height: 100vh;
+    background-size: cover;
+}
+.advice h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: "Imprima", sans-serif;
+    color: #74c5ff;
+}
+.advice p{
+    font-family: "Timmana", sans-serif;
+    font-size: 35px;
+    color:#cce3f3;
+}
+.advice button {
+    width: 200px;
+    height: 80px;
+    color: #FBFBFB;
+    background-color: rgba(255, 255, 255, 0.2);
+    font-size: 20px;
+    font-weight: 800;
+}
+.advice button:hover{
+    background-color: #00c3ff;
+    
+}
+.qu {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    font-family: "Imprima", sans-serif;
+  
+    
+}
+.quo{
+    font-size: 20px;
+    font-weight: 700;
+    color:#D4F6FF;
+    font-family: "Imprima", sans-serif;
+}
